@@ -1,0 +1,15 @@
+.text__containner{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+
+    #area{
+        border: 1px solid #3e4547;
+        padding: 14px;
+        outline: none;
+        background-color: transparent;
+        color: aliceblue;
+    }
+}
